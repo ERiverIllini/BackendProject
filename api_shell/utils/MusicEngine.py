@@ -15,7 +15,7 @@ def index():
 
 # url parameters
 #@app.route('/endpoint/<input>')
-def endpoint(input):
+def endpoint():
     return input
 
 
